@@ -62,4 +62,10 @@ Expenses-tracker/
 
 ```
 -----
+🧑‍💻 Author
+
+Youssef M. Ezzat 
+
+-----
+<h1 align"center">  Thank you for checking out Form-validator — give it a star if you find it useful! ✨ </h1>
 
