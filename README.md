@@ -67,5 +67,5 @@ Expenses-tracker/
 Youssef M. Ezzat 
 
 -----
-<h4 align"center">  Thank you for checking out Form-validator — give it a star if you find it useful! ✨ </h4>
+<h4 align="center">  Thank you for checking out Form-validator — give it a star if you find it useful! ✨ </h4>
 
