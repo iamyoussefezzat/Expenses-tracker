@@ -14,15 +14,14 @@ With this tool you can:
 - View a list of your past transactions.  
 - See totals and balances of your expenditures.  
 
-
 ---
 
 ## ✨ Features  
 - ✅ Add a new expense with description, amount and date  
 - ✅ Display list of all logged expenses  
-- ✅ Show total cost of expenses and balance (if income included)  
+- ✅ Show total cost of expenses and balance 
 - ✅ Option to delete a logged expense when needed  
-- ✅ (Optional) Save data using LocalStorage or a simple backend  
+- ✅  Save data using LocalStorage or a simple backend  
 - ✅ Responsive design to work on both mobile and desktop  
 
 ---
@@ -31,13 +30,13 @@ With this tool you can:
 - **HTML5** – Markup and structure  
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6+)** – Core logic and DOM interactivity  
-- **Local Storage API** – For persisting user data (if used)  
-- *(If you used a framework or backend, list it here)*  
+- **Local Storage 
+
 
 ---
 
 ## 🖼️ Screenshots  
-> *<img width="1299" height="611" alt="image" src="https://github.com/user-attachments/assets/908f942b-35b7-4b92-a1f4-604c92d8a3a3" />
+> <img width="910" height="633" alt="image" src="https://github.com/user-attachments/assets/a1a8b012-5110-47c9-bc68-47e281ac0f86" />
 
 ----
 ```
@@ -45,12 +44,10 @@ With this tool you can:
 git clone https://github.com/iamyoussefezzat/Expenses-tracker.git
 cd Expenses-tracker
 
-# 2. (If applicable) Install dependencies
-npm install
+
 
 # 3. Open the app 
-#    – If it’s pure HTML/CSS/JS: open index.html in your browser  
-#    – If dev server is used: npm start
+#    – open index.html in your browser  
 
 ```
 -----
