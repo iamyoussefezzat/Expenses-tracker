@@ -38,7 +38,8 @@ With this tool you can:
 
 ## 🖼️ Screenshots  
 > *<img width="1299" height="611" alt="image" src="https://github.com/user-attachments/assets/908f942b-35b7-4b92-a1f4-604c92d8a3a3" />
-*  
+
+----
 ```
 # 1. Clone the repository
 git clone https://github.com/iamyoussefezzat/Expenses-tracker.git
@@ -64,10 +65,4 @@ Expenses-tracker/
 
 ```
 -----
-
-
----
-
-If you like, I can also generate **badges** (license badge, build status badge, languages badge) and prepare a **banner image** (SVG/PNG) ready for the top of the README to give it a more professional and polished look. Would you like me to create those?
-::contentReference[oaicite:1]{index=1}
 
